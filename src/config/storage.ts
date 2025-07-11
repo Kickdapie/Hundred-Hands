@@ -50,7 +50,7 @@ export function createStorageConfig(storageType: string | undefined): StorageCon
     type,
     options: {
       // Neo4j connection options from environment variables
-      neo4jUri: process.env.NEO4J_URI || 'bolt://localhost:7687',
+      neo4jUri: process.env.NEO4J_URI || 'bolt://host.docker.internal:7687',
       neo4jUsername: process.env.NEO4J_USERNAME || 'neo4j',
       neo4jPassword: process.env.NEO4J_PASSWORD || 'memento_password',
       neo4jDatabase: process.env.NEO4J_DATABASE || 'neo4j',
