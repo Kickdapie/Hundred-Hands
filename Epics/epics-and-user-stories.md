@@ -5,7 +5,7 @@ Developers and designers often waste hours modifying AI-generated code to meet i
 
 By integrating **RAG** and **agentic AI systems**, this tool enables rapid prototype interface generation without requiring manual modifications of AI-generated stylesheets. The server will support multiple input formats—including `.fig`, `.pdf`, `.png`, `.jpg`, `.docx`, `.md`, `.json`, `.html`, `.css`, and `tailwind.config.js`—to allow seamless integration into existing design workflows.
 
-To accommodate the diverse frontend ecosystems in use, users can select the output framework (React, Angular, Vue, etc.). The server will:
+To accommodate the diverse frontend ecosystems in use, users can select the output framework (React, Angular, Vue, and JS). The server will:
 - Accept documents,
 - Use agents to extract UI information,
 - Use a RAG system to align with prior user practices,
