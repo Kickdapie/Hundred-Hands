@@ -10,6 +10,7 @@ COPY package*.json ./
 # Install dependencies (ignore prepare scripts to speed up build if necessary)
 RUN npm install --ignore-scripts
 
+
 # Copy source code
 COPY . .
 
