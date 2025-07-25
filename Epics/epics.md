@@ -8,9 +8,7 @@
 
 ## Epic Description
 
-Develop an AI-powered tool that converts complete Figma design files—including wireframes, interactive prototypes, component states, and design systems—into live, standards-compliant websites hosted via a Node.js local or remote server.
-
-The goal is to eliminate the friction between design and engineering, enabling non-technical users to publish fully interactive websites and giving teams an automated bridge between Figma and working frontends. The tool will also check for compliance with design constraints like WCAG and adjust output accordingly. While also allowing room for custom editing for those technically proficient.
+We will develop an AI-powered tool that converts complete Figma design files (wireframes, interactive prototypes, component states, and design systems) into live, standards-compliant websites hosted via a Node.js local or remote server. The goal is to eliminate the friction between design and engineering, enabling non-technical users to publish fully interactive websites and giving teams an automated bridge between Figma and working frontends. Designers will be able to generate code directly within Figma and be able to download it as a .zip file, allowing them to run the code on a local or remote server and preview how their designs look on a working website. Once they approve, they can pass the code onto developers for further refinement, reducing the chance that developers will accidentally change the designers’ original designs. The tool will autonomously check for compliance with design constraints like WCAG and custom corporate guidelines (given by the user) and adjust output accordingly when generating code.
 
 ---
 
