@@ -34,3 +34,13 @@
 
 - **As a front end developer**, I want to receive auto-generated HTML, CSS, and component code from the designer’s Figma file as well as the link to the original Figma file itself, so that I can focus on integrating the logic and backend connections without rebuilding the UI from scratch.  
 - **As a front end developer**, I want to be able to check my updates to the code as well as talk to an LLM about the original Figma file, so that I can ensure that the updated code meets company and basic standards as well as making sure I understand the full context of the original design.
+
+---
+
+## UI designer 
+*wants to use the plugin for the first time and needs to install required tools and configure their environment*
+
+- **As a UI designer**, I want clear guidance on how to download and install the plugin in Figma, so that I can start generating code from my designs easily.
+- **As a UI designer**, I want the plugin to tell me if I need to install tools like Ollama or connect to a local API, so that I’m not confused about missing functionality.
+- **As a UI designer**, I want an easy way to download and install required dependencies (e.g., Ollama, Node.js server), so that I can complete the setup without needing a developer.
+- **As a UI designer**, I want the plugin to confirm when setup is complete and everything is connected properly, so that I can confidently begin using the tool.
