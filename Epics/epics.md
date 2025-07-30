@@ -8,19 +8,18 @@
 
 ## Epic Owners
 - Danny Nguyen  
-- Kazuma  
-- Rangarajan  
+- Kazuma Rangarajan  
 - Sashank Bhagavatula  
 
 ---
 
 ## Epic Description (Updated 7/29)
 
-We will develop an **AI-powered tool** that converts complete Figma design files—including wireframes, interactive prototypes, component states, and design systems—into **standards-compliant, production-ready web applications** hosted on a local or remote Node.js server.
+We will develop an AI-powered tool that converts complete Figma design files—including wireframes, interactive prototypes, component states, and design systems—into standards-compliant, production-ready web applications hosted on a local or remote Node.js server.
 
 This tool will streamline the design-to-code handoff by allowing design teams to generate, preview, and export functional front-end code directly from Figma. Teams can download code as a `.zip`, run it locally or remotely, and optionally modify it in their preferred IDE. Once approved, the code can be handed off to development teams for further enhancement—preserving design intent and reducing misalignment.
 
-The tool will also validate output against **accessibility standards** (e.g., WCAG) and **custom organizational design constraints** (Corporate Design Systems), autonomously adjusting code generation to ensure compliance.
+The tool will also validate output against accessibility standards (e.g., WCAG) and custom organizational design constraints (Corporate Design Systems), autonomously adjusting code generation to ensure compliance.
 
 ---
 
@@ -29,15 +28,15 @@ The tool will also validate output against **accessibility standards** (e.g., WC
 If designers and cross-functional teams can convert their Figma files directly into accessible, production-ready code via an AI agent, we expect to achieve the following business outcomes:
 
 ### Accelerated Time-to-Launch
-- Reduce average time-to-launch for new web applications by **over 70%**.
-- Shorten design-to-development handoff cycles by **3×**.
+- Reduce average time-to-launch for new web applications by over 70%.
+- Shorten design-to-development handoff cycles by 3×.
 
 ### Expanded Cross-Functional Contribution
 - Increase participation from non-developer team members.
 - Reduce engineering bottlenecks for frontend prototyping.
 
 ### Improved Standards and Compliance
-- Improve adherence to **WCAG 2.1** and **internal design system guidelines**.
+- Improve adherence to WCAG 2.1 and internal design system guidelines.
 - Lower UI/UX inconsistencies by preserving design intent.
 
 ---
