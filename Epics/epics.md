@@ -193,3 +193,9 @@ If designers and cross-functional teams can convert their Figma files directly i
 
 # Development Diagrams
 - https://www.figma.com/board/R58JgKJunrhvwxLYl1hzNN/Hundred-hands-planning?node-id=0-1&t=bteHBj8xj9mHyXN1-1
+
+# Presentation slides
+- https://docs.google.com/presentation/d/1djk4uW7YP2G8jw7hox8a3AcCeDs2T19YBqQII6UUA10/edit?usp=sharing
+
+# Figma MCP Server Demo
+- https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server
